@@ -1,0 +1,8 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.card img {
+    width: 100%; /* Para que la imagen se ajuste al contenedor */
+    height: auto;
+}
